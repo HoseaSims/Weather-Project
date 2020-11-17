@@ -22,7 +22,7 @@ else if(hours >= 12 && hours <= 15){
 else if(hours >= 16 && hours >= 19){
     bodyBackground = "url('img/bowen-chin-Hkq5xLbHjoY-unsplash.jpg')"
 }
-else if(hour <= 22 && hours >= 4){
+else if(hours <= 22 && hours >= 4){
     bodyBackground = "url('img/asoggetti-ILLq6afxocQ-unsplash.jpg')"
 }
 
